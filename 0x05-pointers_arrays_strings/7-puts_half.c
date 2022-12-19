@@ -20,7 +20,7 @@ break;
 count++;
 }
 
-if (count % 2 == 1
+if (count % 2 == 1)
 i = count / 2;
 else
 i = (count - 1) / 2;
@@ -29,3 +29,4 @@ _putchar(str[i]);
 
 _putchar('\n');
 }
+
